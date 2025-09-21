@@ -23,7 +23,7 @@
     "react-tooltip": "^4.2.21",
     "reactstrap": "^8.9.0",
     "recharts": "^2.0.10",
-    "sass": "^1.35.2",
+    "sass": "^1.91.0",
     "spinners-react": "^1.0.4"
   },
   "scripts": {
